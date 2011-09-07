@@ -107,3 +107,6 @@ footer {
 footer nav {
   float: none;
 }
+div.field, div.actions {
+  margin-bottom: 10px;
+}
